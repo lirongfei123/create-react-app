@@ -1,6 +1,6 @@
 {
-  "name": "react-scripts",
-  "version": "2.1.2",
+  "name": "react_scripts",
+  "version": "1.0.0",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebook/create-react-app",
   "license": "MIT",
@@ -20,7 +20,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts": "./bin/react-scripts.js"
+    "react_scripts": "./bin/react-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {

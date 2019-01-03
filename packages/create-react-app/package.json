@@ -1,6 +1,6 @@
 {
-  "name": "create-react-app",
-  "version": "2.1.2",
+  "name": "create_react_app",
+  "version": "1.0.0",
   "keywords": [
     "react"
   ],
@@ -19,7 +19,7 @@
     "yarn.lock.cached"
   ],
   "bin": {
-    "create-react-app": "./index.js"
+    "create_react_app": "./index.js"
   },
   "dependencies": {
     "chalk": "1.1.3",
