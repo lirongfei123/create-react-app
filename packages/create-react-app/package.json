@@ -1,5 +1,5 @@
 {
-  "name": "create_react_app",
+  "name": "@khan123/create-react-app",
   "version": "1.0.1",
   "keywords": [
     "react"
@@ -32,5 +32,6 @@
     "tar-pack": "3.4.1",
     "tmp": "0.0.33",
     "validate-npm-package-name": "3.0.0"
-  }
+  },
+  "gitHead": "d223be476236c5c77dca6c7e4ffe6bd56117a66c"
 }

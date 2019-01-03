@@ -1,5 +1,5 @@
 {
-  "name": "react_scripts",
+  "name": "@khan123/react-scripts",
   "version": "1.0.1",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebook/create-react-app",
@@ -84,5 +84,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "gitHead": "d223be476236c5c77dca6c7e4ffe6bd56117a66c"
 }

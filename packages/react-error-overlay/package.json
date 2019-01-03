@@ -1,5 +1,5 @@
 {
-  "name": "react_error_overlay",
+  "name": "@khan123/react-error-overlay",
   "version": "1.0.1",
   "description": "An overlay for displaying stack frames.",
   "main": "lib/index.js",
@@ -80,5 +80,6 @@
       "/fixtures/",
       "setupJest.js"
     ]
-  }
+  },
+  "gitHead": "d223be476236c5c77dca6c7e4ffe6bd56117a66c"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "react_dev_utils",
+  "name": "@khan123/react-dev-utils",
   "version": "1.0.1",
   "description": "Webpack utilities used by Create React App",
   "repository": "facebook/create-react-app",
@@ -75,5 +75,6 @@
   },
   "scripts": {
     "test": "cross-env FORCE_COLOR=true jest"
-  }
+  },
+  "gitHead": "d223be476236c5c77dca6c7e4ffe6bd56117a66c"
 }
